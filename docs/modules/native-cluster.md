@@ -6,21 +6,17 @@
 
 ## Скачать и установить
 
-- [Установщик Windows x64](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/cluster-native-ru-2026-11-20_15/Qiyuan-Q05-B216-Cluster-RU-Windows.zip). Распакуйте ZIP и запустите `Start.cmd`. Python и ADB уже в комплекте.
-- [Инструкция по установке и восстановлению](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/cluster-native-ru-2026-11-20_15).
+- [Скачать установщик Windows x64](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/cluster-native-ru-2026-11-21_04/Qiyuan-Q05-B216-Cluster-RU-Windows.zip). Распакуйте ZIP и запустите `Start.cmd`.
+- [Описание выпуска `2026-11-21_04`](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/cluster-native-ru-2026-11-21_04).
 - [Архив ресурсов Linux HMI для ручной установки](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/cluster-native-ru-2026-11-16_14).
 
 Поддерживаемая сборка головного устройства B216 — `SWC.1371.RB216000004`.
-
-Опубликованный выпуск `_15` требует root-доступа к Android shell и Linux HMI приборки.
 
 ## Обновление установщика `2026-11-21_04`
 
 В новой сборке OpenSSH входит в комплект вместе с Python и ADB. Отдельно устанавливать эти инструменты в Windows или добавлять их в `PATH` не нужно. Для запуска больше не нужен root на Android. При записи ресурсов по-прежнему нужен root-доступ к Linux T-Box.
 
 Работа распакованной сборки проверена на B216. Запуск `Start.cmd` и встроенных инструментов проверен на Windows с пустым `PATH`. Автоматический вход проверен с имитацией подключения. Отдельный прогон на чистой Windows с реальным автомобилем ещё не проводился.
-
-Выпуск `2026-11-21_04` пока не опубликован. Ссылки в разделе скачивания относятся к предыдущему выпуску.
 
 ## Скриншоты до и после
 
