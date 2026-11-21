@@ -40,7 +40,7 @@
 
 ### Нативная приборка B216
 
-- [Скачать установщик Windows x64](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/cluster-native-ru-2026-11-20_15/Qiyuan-Q05-B216-Cluster-RU-Windows.zip). Распакуйте ZIP и запустите `Start.cmd`. Внутри уже есть Python и ADB. [Инструкция и скриншоты до и после](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/cluster-native-ru-2026-11-20_15).
+- [Скачать установщик Windows x64](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/cluster-native-ru-2026-11-21_04/Qiyuan-Q05-B216-Cluster-RU-Windows.zip). Распакуйте ZIP и запустите `Start.cmd`. В комплекте Python, ADB и OpenSSH. [Инструкция и скриншоты до и после](docs/modules/native-cluster.md).
 - [Скачать отдельный архив ресурсов](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/cluster-native-ru-2026-11-16_14) для ручной установки в Linux HMI.
 
 Установщик рассчитан на B216 со сборкой ГУ `SWC.1371.RB216000004`. Ресурсы `_14` подтверждены на автомобиле. Опубликованный установщик `_15` требует root-доступа к Android shell и Linux HMI; локальный rootless-кандидат пока не опубликован и на машине не запускался.
