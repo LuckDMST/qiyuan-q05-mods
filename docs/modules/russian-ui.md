@@ -6,7 +6,7 @@
 
 ## Скачать
 
-[Скачать APK code349](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/russian-ui-code349/qiyuan-q05-russian-ui-code349.apk) · [Описание выпуска](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/russian-ui-code349)
+[Скачать APK](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/russian-ui-code349/qiyuan-q05-russian-ui-code349.apk) · [Описание выпуска](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/russian-ui-code349)
 
 SHA-256 APK: `13B00E914FEC9AC9B75EB76634BBEC8C7ED77CCB48AD7AE0384A48EB88D1E4E6`.
 
