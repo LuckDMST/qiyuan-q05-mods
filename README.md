@@ -1,8 +1,8 @@
 # Changan Qiyuan Q05 LU+ — русификация и модули
 
-Этот проект помогает пользоваться русским интерфейсом на центральном экране и приборке Changan Qiyuan Q05 Laser Ultra Plus. Здесь собраны Android-модули, установщик для приборки, примеры озвучки и инструкции.
+Этот проект помогает пользоваться русским интерфейсом на центральном экране и приборке Changan Qiyuan Q05 Laser Ultra Plus. Здесь собраны Android-модули, установщик для приборки, аудиопримеры и понятные инструкции.
 
-Перед установкой откройте страницу нужного модуля. Там указаны требования, шаги установки и проверенные функции. Все Android-модули ниже подготовлены для ГУ B216. Некоторые функции проверены только частично.
+Откройте страницу нужного модуля: там указаны требования, установка и то, что уже проверено. Модули и установщик рассчитаны на ГУ B216; отдельные функции ещё требуют проверки.
 
 ## Установить модуль
 
@@ -13,12 +13,12 @@
 
 | Что нужно | Страница и загрузка |
 | --- | --- |
-| Перевести меню, настройки и климат | [Русский интерфейс](docs/modules/russian-ui.md) · [APK code349](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/russian-ui-code349) |
-| Показать карты на приборке | [Навигация на приборке](docs/modules/cluster-navigation.md) · [APK code56](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/yandex-cluster-0.56-test) |
-| Настроить плитки и разделение экрана | [Интерфейс и настройки](docs/modules/interface-tweaks.md) · [APK code52](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/interface-tweaks-code52) |
-| Исправить размер окна EzMod | [Рабочая область](docs/modules/app-workspace.md) · [APK code7](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/app-workspace-code7) |
-| Перевести реплики TSpeech голосом Алисы | [Русская озвучка](docs/modules/russian-voice.md) · [APK code10](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/alice-voice-code10) |
-| Перевести нативную приборку | [Инструкция и установщик Windows x64](docs/modules/native-cluster.md) · [Релиз _04](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/cluster-native-ru-2026-11-21_04) |
+| Перевести меню, настройки и климат | [Русский интерфейс](docs/modules/russian-ui.md) · [Скачать](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/russian-ui-code349) |
+| Показать карты на приборке | [Навигация на приборке](docs/modules/cluster-navigation.md) · [Скачать](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/yandex-cluster-0.56-test) |
+| Настроить плитки и разделение экрана | [Интерфейс и настройки](docs/modules/interface-tweaks.md) · [Скачать](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/interface-tweaks-code52) |
+| Исправить размер окна EzMod | [Рабочая область](docs/modules/app-workspace.md) · [Скачать](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/app-workspace-code7) |
+| Перевести реплики TSpeech голосом Алисы | [Русская озвучка](docs/modules/russian-voice.md) · [Скачать](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/alice-voice-code10) |
+| Перевести нативную приборку | [Инструкция и установщик Windows x64](docs/modules/native-cluster.md) · [Скачать](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/cluster-native-ru-2026-11-21_04) |
 
 Другие материалы: [русские реплики внешнего громкоговорителя](docs/modules/exterior-charge-voice.md), [перевод кругового обзора](docs/modules/avm-magisk.md), [голосовой ввод Dicio](docs/modules/dicio-voice-input.md).
 
