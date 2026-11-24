@@ -38,3 +38,4 @@
 
 - [Павлу](https://gitverse.ru/PavelAravin/q05ru) — за помощь с получением root-доступа к головному устройству.
 - Автору проекта [changan-a06-ru-assistant](https://github.com/voronoff2803/changan-a06-ru-assistant) — за работу над голосовым помощником. Этот проект я изучал при разработке решения.
+- Активным участникам обсуждения на [форуме 4PDA](https://4pda.to/forum/index.php?showtopic=1123480) — за участие и обмен опытом по теме проекта.
