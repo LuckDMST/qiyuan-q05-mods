@@ -36,4 +36,4 @@
 
 ## Благодарности
 
-Павлу — за получение root-доступа к головному устройству. Автору проекта [changan-a06-ru-assistant](https://github.com/voronoff2803/changan-a06-ru-assistant) — за работу над голосовым помощником, которую мы изучали при разработке своего решения.
+[Павлу](https://gitverse.ru/PavelAravin/q05ru) — за помощь с получением root-доступа к головному устройству. Автору проекта [changan-a06-ru-assistant](https://github.com/voronoff2803/changan-a06-ru-assistant) — за работу над голосовым помощником, которую я изучал при разработке решения.
