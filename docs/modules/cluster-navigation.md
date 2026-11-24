@@ -6,7 +6,7 @@
 
 ## Скачать
 
-[Скачать APK code56](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/yandex-cluster-0.56-test/qiyuan-q05-yandex-cluster-0.56-test.apk) · [Описание выпуска](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/yandex-cluster-0.56-test)
+[Скачать APK](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/yandex-cluster-0.56-test/qiyuan-q05-yandex-cluster-0.56-test.apk) · [Описание выпуска](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/yandex-cluster-0.56-test)
 
 SHA-256 APK: `286E5D0005F37DEA6351CF31A0DDF218E1EEE5876C4D790462A801F133D0039F`.
 
@@ -26,7 +26,7 @@ SHA-256 APK: `286E5D0005F37DEA6351CF31A0DDF218E1EEE5876C4D790462A801F133D0039F`.
 
 ## Что проверено
 
-На текущем выпуске положение карты Яндекса проверено. Карта остаётся на приборке после сворачивания Яндекс Навигатора. Для 2ГИС этот сценарий пока не работает.
+Положение карты Яндекса на приборке проверено. Карта остаётся на приборке после сворачивания Яндекс Навигатора. Для 2ГИС этот сценарий пока не работает.
 
 ![Яндекс Навигатор на приборке B216](../../screenshots/cluster-navigation/2026-11-23/cluster-code56-02.jpg)
 
