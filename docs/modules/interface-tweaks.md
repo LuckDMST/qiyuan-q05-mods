@@ -6,7 +6,7 @@
 
 ## Скачать
 
-[Скачать APK code52](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/interface-tweaks-code52/qiyuan-q05-interface-code52.apk) · [Описание выпуска](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/interface-tweaks-code52)
+[Скачать APK](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/interface-tweaks-code52/qiyuan-q05-interface-code52.apk) · [Описание выпуска](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/interface-tweaks-code52)
 
 SHA-256 APK: `3CA15FF03F12E19194B8BEDDD45325F718FE2651BB7556119C6387170F6A4274`.
 
@@ -26,4 +26,4 @@ SHA-256 APK: `3CA15FF03F12E19194B8BEDDD45325F718FE2651BB7556119C6387170F6A4274`.
 
 ## Что проверено
 
-На B216 проверены открытие редактора приложений второго окна и сохранение выбранных отметок. Разделение экрана и скрытие рекомендаций проверялись в предыдущих выпусках. Остальные изменения code52 требуют проверки.
+На B216 проверены открытие редактора приложений второго окна и сохранение выбранных отметок. Разделение экрана и скрытие рекомендаций проверялись в предыдущих выпусках. Остальные изменения требуют проверки.
