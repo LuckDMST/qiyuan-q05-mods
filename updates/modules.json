@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "modules": {
+    "io.github.luckdmst.q05.yandexcluster": {
+      "versionCode": 52
+    }
+  }
+}
