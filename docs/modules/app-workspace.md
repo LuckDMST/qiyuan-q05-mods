@@ -6,16 +6,16 @@
 
 Идентификатор пакета: `io.github.luckdmst.q05.appworkspace`.
 
-Состояние на 21 ноября 2026 года. Проверки проводились на Qiyuan Q05 LU+ с ГУ B216.
+## Скачать
 
-## Что проверили на машине
+[APK code7](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/app-workspace-code7/qiyuan-q05-app-workspace-code7.apk) · [Описание выпуска](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/app-workspace-code7)
 
-Подтверждена установка code7. Для предыдущей версии проверили настройку области LSPosed для EzMod.
+SHA256: `266CBC65B8E820E5415570A0DB595F90790A1CFA99AF862FF3A58F22F2147332`.
 
-## Что в работе
+## Что проверили
 
-Модуль подгоняет интерфейс под доступную область экрана. На code7 предстоит проверить, что нижние кнопки EzMod доступны и штатные панели работают как обычно.
+Установка code7 подтверждена на B216. Модуль ограничен EzMod. Отображение нижних кнопок именно на code7 ещё не проверено.
 
-## Сборки
+## Использование
 
-Публичная сборка пока не опубликована. [Релизы проекта](https://github.com/LuckDMST/qiyuan-q05-mods/releases)
+Этот APK предназначен для ГУ B216 с уже настроенным LSPosed. В LSPosed укажите только EzMod (com.blackmods.ezmod). Проверяйте работу на стоянке.

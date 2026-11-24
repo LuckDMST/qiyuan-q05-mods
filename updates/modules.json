@@ -1,8 +1,20 @@
 {
   "schemaVersion": 1,
   "modules": {
+    "io.github.luckdmst.qiyuanq05": {
+      "versionCode": 349
+    },
     "io.github.luckdmst.q05.yandexcluster": {
+      "versionCode": 56
+    },
+    "io.github.luckdmst.q05.interface": {
       "versionCode": 52
+    },
+    "io.github.luckdmst.q05.appworkspace": {
+      "versionCode": 7
+    },
+    "io.github.luckdmst.q05.alicevoice": {
+      "versionCode": 10
     }
   }
 }

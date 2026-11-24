@@ -6,16 +6,18 @@
 
 Идентификатор пакета: `io.github.luckdmst.q05.yandexcluster`.
 
-Состояние на 21 ноября 2026 года. Проверки проводились на Qiyuan Q05 LU+ с ГУ B216.
-
-## Что проверили на машине
-
-Готовая разработка. На code52 на одном Qiyuan Q05 LU+ B216 проверены Яндекс и 2ГИС, проекция навигации на приборку, переключение между приложениями и трёхпальцевый свайп.
-
-## Что в работе
-
-Выпуск `0.52-test` остаётся помечен как предварительный; публичная инструкция описывает настройку области LSPosed.
-
 ## Скачать
 
-[Предварительный выпуск 0.52-test / code52](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/yandex-cluster-0.52-test) · [Все релизы проекта](https://github.com/LuckDMST/qiyuan-q05-mods/releases)
+[APK code56](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/yandex-cluster-0.56-test/qiyuan-q05-yandex-cluster-0.56-test.apk) · [Описание выпуска](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/yandex-cluster-0.56-test)
+
+SHA256: `286E5D0005F37DEA6351CF31A0DDF218E1EEE5876C4D790462A801F133D0039F`.
+
+## Что проверили
+
+На B216 визуально проверено положение карты Яндекса: маркер возле нижнего края и видна дорога впереди. Яндекс, 2ГИС и переключение проверялись ранее на code52.
+
+## Использование
+
+Этот APK предназначен для ГУ B216 с уже настроенным LSPosed. Используйте рекомендованную область действия LSPosed. После обновления проверьте Яндекс на стоянке. Не включайте одновременно старый пакет ru.q05clean.yandexswipe. Проверяйте работу на стоянке.
+
+[Предыдущий выпуск code52](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/yandex-cluster-0.52-test).
