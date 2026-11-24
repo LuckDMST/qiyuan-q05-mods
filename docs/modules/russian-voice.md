@@ -6,7 +6,7 @@
 
 ## Скачать
 
-[Скачать APK code10](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/alice-voice-code10/qiyuan-q05-alice-voice-code10.apk) · [Описание выпуска](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/alice-voice-code10)
+[Скачать APK](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/alice-voice-code10/qiyuan-q05-alice-voice-code10.apk) · [Описание выпуска](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/alice-voice-code10)
 
 SHA-256 APK: `9A90E8630E3624570B5AE8F04E56F69F64FBA4D12FA86D0E9BD7263D9F076B41`.
 
@@ -15,7 +15,7 @@ SHA-256 APK: `9A90E8630E3624570B5AE8F04E56F69F64FBA4D12FA86D0E9BD7263D9F076B41`.
 - ГУ B216 с настроенным LSPosed.
 - Штатное приложение TSpeech (`com.tinnove.wecarspeech`).
 
-## Установка и проверка
+## Установка и использование
 
 1. Установите APK и включите модуль в LSPosed только для TSpeech.
 2. Перезапустите TSpeech, если LSPosed этого потребует.
@@ -27,6 +27,6 @@ SHA-256 APK: `9A90E8630E3624570B5AE8F04E56F69F64FBA4D12FA86D0E9BD7263D9F076B41`.
 
 ## Как разрабатывался голосовой помощник
 
-При разработке решения я изучал проект [changan-a06-ru-assistant](https://github.com/voronoff2803/changan-a06-ru-assistant). Это внешний проект, который помог изучить возможный подход. APK code10 на этой странице описывает наш отдельный модуль замены поддерживаемых фраз TSpeech. Он не является копией или полной реализацией указанного проекта.
+При разработке решения я изучал проект [changan-a06-ru-assistant](https://github.com/voronoff2803/changan-a06-ru-assistant). Это внешний проект, который помог изучить возможный подход. Модуль на этой странице описывает замену поддерживаемых фраз TSpeech. Он не является копией или полной реализацией указанного проекта.
 
 Голосовой ввод Dicio описан отдельно на [своей странице](dicio-voice-input.md).
