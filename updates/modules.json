@@ -1,20 +1,17 @@
 {
   "schemaVersion": 1,
   "modules": {
-    "io.github.luckdmst.qiyuanq05": {
-      "versionCode": 349
-    },
-    "io.github.luckdmst.q05.yandexcluster": {
-      "versionCode": 56
-    },
-    "io.github.luckdmst.q05.interface": {
-      "versionCode": 52
-    },
-    "io.github.luckdmst.q05.appworkspace": {
-      "versionCode": 7
-    },
-    "io.github.luckdmst.q05.alicevoice": {
-      "versionCode": 10
-    }
+    "io.github.luckdmst.qiyuanq05": { "versionCode": 349 },
+    "io.github.luckdmst.q05.yandexcluster": { "versionCode": 56 },
+    "io.github.luckdmst.q05.interface": { "versionCode": 52 },
+    "io.github.luckdmst.q05.appworkspace": { "versionCode": 7 },
+    "io.github.luckdmst.q05.alicevoice": { "versionCode": 10 }
+  },
+  "service": {
+    "packageId": "io.github.luckdmst.q05.service",
+    "versionCode": 27,
+    "versionName": "0.7.10-preview",
+    "downloadUrl": "https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/q05-service-0.7.10-preview/q05-service-0.7.10-preview.apk",
+    "sha256": "990FDADD7ED7509C63F716DCEB91B1289F401B63B5D2300F57A6921485C12DB4"
   }
 }
