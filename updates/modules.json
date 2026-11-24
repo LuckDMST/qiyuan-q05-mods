@@ -19,9 +19,9 @@
   },
   "service": {
     "packageId": "io.github.luckdmst.q05.service",
-    "versionCode": 29,
-    "versionName": "0.7.12-preview",
-    "downloadUrl": "https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/q05-service-0.7.12-preview/q05-service-0.7.12-preview.apk",
-    "sha256": "50A96D91C0D8A9B7BC9F36FBC3E5C7AD625EA9C227D391AE9F14A98FA2A03FE2"
+    "versionCode": 30,
+    "versionName": "0.7.13-preview",
+    "downloadUrl": "https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/q05-service-0.7.13-preview/q05-service-0.7.13-preview.apk",
+    "sha256": "6ef678a2623e1fbfbd05dedc7a1d2e86ba7715996eaba7ca0da4c3f621047a6c"
   }
 }
