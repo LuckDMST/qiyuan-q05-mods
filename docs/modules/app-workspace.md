@@ -1,21 +1,26 @@
-# Рабочая область
+# Рабочая область EzMod
 
 [Все модули](../../README.md)
 
-Подгонка окна EzMod под доступную область центрального экрана. Цель модуля — вернуть доступ к элементам, которые перекрывает нижняя панель автомобиля.
-
-Идентификатор пакета: `io.github.luckdmst.q05.appworkspace`.
+Модуль подгоняет окно EzMod под свободное место на центральном экране. Это помогает открыть элементы, которые может закрывать нижняя панель автомобиля.
 
 ## Скачать
 
-[APK code7](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/app-workspace-code7/qiyuan-q05-app-workspace-code7.apk) · [Описание выпуска](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/app-workspace-code7)
+[Скачать APK code7](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/app-workspace-code7/qiyuan-q05-app-workspace-code7.apk) · [Описание выпуска](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/app-workspace-code7)
 
-SHA256: `266CBC65B8E820E5415570A0DB595F90790A1CFA99AF862FF3A58F22F2147332`.
+SHA-256 APK: `266CBC65B8E820E5415570A0DB595F90790A1CFA99AF862FF3A58F22F2147332`.
 
-## Что проверили
+## Что понадобится
 
-Установка code7 подтверждена на B216. Модуль ограничен EzMod. Отображение нижних кнопок именно на code7 ещё не проверено.
+- ГУ B216.
+- Установленный и настроенный LSPosed.
+- Приложение EzMod (`com.blackmods.ezmod`).
 
-## Использование
+## Установка
 
-Этот APK предназначен для ГУ B216 с уже настроенным LSPosed. В LSPosed укажите только EzMod (com.blackmods.ezmod). Проверяйте работу на стоянке.
+1. Скачайте APK по ссылке выше и установите его на ГУ.
+2. Откройте LSPosed и включите модуль только для EzMod.
+3. Перезапустите EzMod, если LSPosed этого потребует.
+4. На стоянке проверьте, что нужные элементы окна доступны.
+
+Установка code7 на B216 подтверждена. Само отображение нижних кнопок в этой версии отдельно не проверено.
