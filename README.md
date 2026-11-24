@@ -24,9 +24,9 @@
 
 ## Скриншоты
 
-[Примеры перевода на центральном экране](screenshots/russian-ui/2026-11-23/README.md) · [Приборка до и после перевода](docs/modules/native-cluster.md#скриншоты-до-и-после)
+[Примеры перевода на центральном экране](screenshots/russian-ui/README.md) · [Приборка до и после перевода](docs/modules/native-cluster.md#скриншоты-до-и-после)
 
-![Настройки автомобиля, раздел «Вождение»](screenshots/russian-ui/2026-11-23/a31-driving-code349.png)
+![Настройки автомобиля, раздел «Вождение»](screenshots/russian-ui/01-driving.png)
 
 ## Таблицы перевода
 

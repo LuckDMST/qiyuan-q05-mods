@@ -29,8 +29,8 @@ SHA-256 APK: `13B00E914FEC9AC9B75EB76634BBEC8C7ED77CCB48AD7AE0384A48EB88D1E4E6`.
 
 ## Примеры экранов
 
-[Открыть галерею](../../screenshots/russian-ui/2026-11-23/README.md).
+[Открыть галерею](../../screenshots/russian-ui/README.md).
 
-![Настройки автомобиля, раздел «Вождение»](../../screenshots/russian-ui/2026-11-23/a31-driving-code349.png)
+![Настройки автомобиля, раздел «Вождение»](../../screenshots/russian-ui/01-driving.png)
 
 [Таблицы TSV](../../translations/).
