@@ -1,42 +1,39 @@
-# Changan Qiyuan Q05 LU+ — русификация и доработки
+# Changan Qiyuan Q05 LU+ — русификация и модули
 
-Бесплатный проект для **Changan Qiyuan Q05 Laser Ultra Plus**. Перевод центрального экрана и приборки, навигация, озвучка и доработки штатных приложений.
+Этот проект помогает пользоваться русским интерфейсом на центральном экране и приборке Changan Qiyuan Q05 Laser Ultra Plus. Здесь собраны Android-модули, установщик для приборки, примеры озвучки и инструкции.
 
-[Все релизы](https://github.com/LuckDMST/qiyuan-q05-mods/releases) · [Таблицы перевода](translations/) · [Сообщить об ошибке](https://github.com/LuckDMST/qiyuan-q05-mods/issues)
+Перед установкой откройте страницу нужного модуля. Там указаны требования, шаги установки и проверенные функции. Все Android-модули ниже подготовлены для ГУ B216. Некоторые функции проверены только частично.
 
-## Скачать модули
+## Установить модуль
 
-Обновлено 24 ноября 2026 года. Пять Android APK ниже опубликованы как предварительные выпуски. Объём проверки указан на странице каждого модуля. Проверки выполнены на одном Q05 LU+ с ГУ B216, Android 14, сборка `SWC.1371.RB216000004`.
+1. Откройте страницу нужного модуля и скачайте файл из раздела «Скачать».
+2. Проверьте требования. Для Android-модулей нужны ГУ B216 и настроенный LSPosed.
+3. Установите файл по инструкции модуля и включите только указанные приложения.
+4. Проверяйте результат на стоянке.
 
-| Модуль | Опубликованный выпуск |
+| Что нужно | Страница и загрузка |
 | --- | --- |
-| [Русский интерфейс](docs/modules/russian-ui.md) | [code349](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/russian-ui-code349) |
-| [Навигация на приборке](docs/modules/cluster-navigation.md) | [code56](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/yandex-cluster-0.56-test) |
-| [Интерфейс и настройки](docs/modules/interface-tweaks.md) | [code52](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/interface-tweaks-code52) |
-| [Рабочая область](docs/modules/app-workspace.md) | [code7](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/app-workspace-code7) |
-| [Русская озвучка](docs/modules/russian-voice.md) | [code10](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/alice-voice-code10) |
-| [Русский интерфейс нативной приборки](docs/modules/native-cluster.md) | [Установщик Windows x64](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/cluster-native-ru-2026-11-21_04) · [Архив ресурсов Linux HMI](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/cluster-native-ru-2026-11-16_14) |
+| Перевести меню, настройки и климат | [Русский интерфейс](docs/modules/russian-ui.md) · [APK code349](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/russian-ui-code349) |
+| Показать карты на приборке | [Навигация на приборке](docs/modules/cluster-navigation.md) · [APK code56](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/yandex-cluster-0.56-test) |
+| Настроить плитки и разделение экрана | [Интерфейс и настройки](docs/modules/interface-tweaks.md) · [APK code52](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/interface-tweaks-code52) |
+| Исправить размер окна EzMod | [Рабочая область](docs/modules/app-workspace.md) · [APK code7](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/app-workspace-code7) |
+| Перевести реплики TSpeech голосом Алисы | [Русская озвучка](docs/modules/russian-voice.md) · [APK code10](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/alice-voice-code10) |
+| Перевести нативную приборку | [Инструкция и установщик Windows x64](docs/modules/native-cluster.md) · [Релиз _04](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/cluster-native-ru-2026-11-21_04) |
+
+Другие материалы: [русские реплики внешнего громкоговорителя](docs/modules/exterior-charge-voice.md), [перевод кругового обзора](docs/modules/avm-magisk.md), [голосовой ввод Dicio](docs/modules/dicio-voice-input.md).
 
 ## Скриншоты
 
-[Русские экраны, 23.11.2026](screenshots/russian-ui/2026-11-23/README.md) · [Приборка до и после перевода](docs/modules/native-cluster.md#скриншоты-до-и-после)
+[Примеры перевода на центральном экране](screenshots/russian-ui/2026-11-23/README.md) · [Приборка до и после перевода](docs/modules/native-cluster.md#скриншоты-до-и-после)
 
-![Настройки → Вождение, code349](screenshots/russian-ui/2026-11-23/a31-driving-code349.png)
-
-## Другие работы
-
-[Наружная озвучка зарядки](docs/modules/exterior-charge-voice.md) · [Голосовой ввод Dicio](docs/modules/dicio-voice-input.md) · [Перевод кругового обзора AVM](docs/modules/avm-magisk.md)
-
-Q05 Сервис проверяет версии опубликованных Android-модулей по [каталогу обновлений](updates/modules.json). Тестовая сборка приложения code25 пока проходит локальную проверку пакета. Каталог не устанавливает модули автоматически.
+![Настройки автомобиля, раздел «Вождение»](screenshots/russian-ui/2026-11-23/a31-driving-code349.png)
 
 ## Таблицы перевода
 
-В репозитории доступны таблицы TSV. Имя файла соответствует пакету Android. Среди приложений есть настройки автомобиля, климат, системный интерфейс, лаунчер, мультимедиа, телефон и редактор сценариев. [Открыть таблицы](translations/)
+В папке [translations](translations/) лежат TSV-файлы с русскими строками для приложений автомобиля. Название файла соответствует Android-пакету приложения. Если редактируете таблицу, сохраняйте имена ресурсов, индексы, исходные строки и параметры форматирования.
 
-В каждой строке пять полей, разделённых табуляцией: полное имя ресурса, индекс элемента массива (`-1` для обычной строки), исходный текст, зарезервированное поле и русский перевод. При редактуре сохраняйте имя ресурса, индекс, исходный текст и параметры форматирования.
+Если нашли ошибку, [создайте Issue](https://github.com/LuckDMST/qiyuan-q05-mods/issues). Укажите модель автомобиля, версию модуля, путь к экрану и текст ошибки. Перед отправкой снимка скройте VIN, номера, имена, контакты и данные аккаунтов.
 
-При сообщении об ошибке укажите модель и сборку ГУ, версию модуля, путь к экрану и проблемный текст. Если прикладываете скриншот, уберите VIN, имена и данные аккаунтов. [Открыть Issues](https://github.com/LuckDMST/qiyuan-q05-mods/issues)
+## О проекте
 
-## Благодарности
-
-Исходный модуль **Q05 RU** разработал **PavelAravin**. **LuckDMST** развивает адресный перевод штатных приложений, исправляет подписи и разметку, ведёт проверку на автомобиле и готовит отдельные модули. [Оригинальный проект на GitVerse](https://gitverse.ru/PavelAravin/q05ru)
+Исходный модуль **Q05 RU** разработал **PavelAravin**. В этом проекте LuckDMST развивает перевод и выпускает отдельные модули. [Оригинальный проект Q05 RU](https://gitverse.ru/PavelAravin/q05ru).
