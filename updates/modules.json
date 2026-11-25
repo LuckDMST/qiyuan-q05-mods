@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "modules": {
     "io.github.luckdmst.qiyuanq05": {
-      "versionCode": 349
+      "versionCode": 350
     },
     "io.github.luckdmst.q05.yandexcluster": {
       "versionCode": 56
