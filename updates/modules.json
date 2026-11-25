@@ -15,6 +15,9 @@
     },
     "io.github.luckdmst.q05.alicevoice": {
       "versionCode": 10
+    },
+    "io.github.luckdmst.q05.gigaasr": {
+      "versionCode": 29
     }
   },
   "service": {
