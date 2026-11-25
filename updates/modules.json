@@ -1,17 +1,27 @@
 {
   "schemaVersion": 1,
   "modules": {
-    "io.github.luckdmst.qiyuanq05": {"versionCode": 349},
-    "io.github.luckdmst.q05.yandexcluster": {"versionCode": 56},
-    "io.github.luckdmst.q05.interface": {"versionCode": 52},
-    "io.github.luckdmst.q05.appworkspace": {"versionCode": 7},
-    "io.github.luckdmst.q05.alicevoice": {"versionCode": 10}
+    "io.github.luckdmst.qiyuanq05": {
+      "versionCode": 349
+    },
+    "io.github.luckdmst.q05.yandexcluster": {
+      "versionCode": 56
+    },
+    "io.github.luckdmst.q05.interface": {
+      "versionCode": 52
+    },
+    "io.github.luckdmst.q05.appworkspace": {
+      "versionCode": 7
+    },
+    "io.github.luckdmst.q05.alicevoice": {
+      "versionCode": 10
+    }
   },
   "service": {
     "packageId": "io.github.luckdmst.q05.service",
-    "versionCode": 49,
-    "versionName": "0.7.32-preview",
-    "downloadUrl": "https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/q05-service-0.7.32-preview/q05-service-0.7.32-preview.apk",
-    "sha256": "5a6fc90455ef403ef8ebd78b93eb40471da325b48abcd32650c1994f5556edb5"
+    "versionCode": 50,
+    "versionName": "0.7.33-preview",
+    "downloadUrl": "https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/q05-service-0.7.33-preview/q05-service-0.7.33-preview.apk",
+    "sha256": "7df1f7e42a05264fa7857d019f4129d33fd0a233a48e9876b4d6f031f5dd1943"
   }
 }
