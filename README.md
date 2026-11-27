@@ -7,23 +7,28 @@
 ## Установить модуль
 
 1. Откройте страницу нужного модуля и скачайте файл из раздела «Скачать».
-2. Проверьте требования. Для Android-модулей нужны ГУ B216 и настроенный LSPosed.
+2. Для Android-модулей проверьте версию LSPosed в таблице и на странице выбранного модуля.
 3. Установите файл по инструкции модуля и включите только указанные приложения.
 4. Проверяйте результат на стоянке.
 
-| Что нужно | Страница и загрузка |
-| --- | --- |
-| Перевести меню, настройки и климат | [Русский интерфейс](docs/modules/russian-ui.md) · [Скачать](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/russian-ui-code349) |
-| Показать карты на приборке | [Навигация на приборке](docs/modules/cluster-navigation.md) · [Скачать](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/yandex-cluster-0.56-test) |
-| Изменить масштаб отдельных приложений на центральном экране | [Масштаб приложений](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/q05-app-scale-0.1-preview) |
-| Настроить плитки и разделение экрана | [Интерфейс и настройки](docs/modules/interface-tweaks.md) · [Скачать](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/interface-tweaks-code52) |
-| Исправить размер окна EzMod | [Рабочая область](docs/modules/app-workspace.md) · [Скачать](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/app-workspace-code7) |
-| Перевести реплики TSpeech голосом Алисы | [Русская озвучка](docs/modules/russian-voice.md) · [Скачать](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/alice-voice-code10) |
-| Перевести нативную приборку | [Инструкция и установщик Windows x64](docs/modules/native-cluster.md) · [Скачать](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/cluster-native-ru-2026-11-21_04) |
+| Что нужно | Страница и загрузка | LSPosed |
+| --- | --- | --- |
+| Перевести меню, настройки и климат | [Русский интерфейс](docs/modules/russian-ui.md) · [Скачать](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/russian-ui-code349) | 1.9.2 (7024). На 2.2.1 (7912) включён код 353. |
+| Показать карты на приборке | [Навигация на приборке](docs/modules/cluster-navigation.md) · [Скачать](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/yandex-cluster-0.56-test) | 1.9.2 (7024). На 2.2.1 (7912) включён код 95. |
+| Изменить масштаб отдельных приложений на центральном экране | [Масштаб приложений](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/q05-app-scale-0.1-preview) | 1.9.2 (7024) для опубликованной 0.1. Отдельная сборка 0.2 с API 100 отключается на 2.2.1. |
+| Настроить плитки и разделение экрана | [Интерфейс и настройки](docs/modules/interface-tweaks.md) · [Скачать](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/interface-tweaks-code52) | 1.9.2 (7024). На 2.2.1 (7912) включён код 65. |
+| Исправить размер окна EzMod | [Рабочая область](docs/modules/app-workspace.md) · [Скачать](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/app-workspace-code7) | 1.9.2 (7024). На 2.2.1 (7912) включён код 7. |
+| Перевести реплики TSpeech голосом Алисы | [Русская озвучка](docs/modules/russian-voice.md) · [Скачать](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/alice-voice-code10) | 1.9.2 (7024). На 2.2.1 (7912) включён код 14. |
+| Распознавать русскую речь и выполнять поддерживаемые команды | [Русское распознавание (GigaAM)](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/q05-giga-asr-0.41-q05-app-label) | 1.9.2 (7024). На 2.2.1 (7912) включён код 41. |
+| Перевести нативную приборку | [Инструкция и установщик Windows x64](docs/modules/native-cluster.md) · [Скачать](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/cluster-native-ru-2026-11-21_04) | Linux, установщик Windows. |
+
+На B216 с LSPosed 2.2.1 (7912, API 102) статусы сверены в LSPosed Manager. Указанные коды относятся к установленным на проверочном ГУ сборкам. Проверка включения в Manager подтверждает состояние модуля; проверка отдельных функций проводится дополнительно.
 
 Другие материалы: [русские реплики внешнего громкоговорителя](docs/modules/exterior-charge-voice.md), [перевод кругового обзора](docs/modules/avm-magisk.md), [голосовой ввод Dicio](docs/modules/dicio-voice-input.md).
 
 ## Скриншоты
+
+[Qiyuan Q05 Сервис на ГУ B216](screenshots/q05-service/README.md)
 
 [Примеры перевода на центральном экране](screenshots/russian-ui/README.md) · [Приборка до и после перевода](docs/modules/native-cluster.md#скриншоты-до-и-после)
 
