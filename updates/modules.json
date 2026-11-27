@@ -25,10 +25,10 @@
   },
   "service": {
     "packageId": "io.github.luckdmst.q05.service",
-    "versionCode": 97,
-    "versionName": "0.7.80-preview",
-    "downloadUrl": "https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/q05-service-0.7.80-preview/q05-service-0.7.80-preview.apk",
-    "sha256": "86b017647b192ccb8274237001ef645da2e72059f23795c67e45c78494d6f2c9"
+    "versionCode": 99,
+    "versionName": "0.7.82-preview",
+    "downloadUrl": "https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/q05-service-0.7.82-preview/q05-service-0.7.82-preview.apk",
+    "sha256": "fda0dfc1e955b94ce313ad6e405deb139b50e8322d4506892bbf8ed6ef2c16b8"
   },
   "moduleVariants": {
     "io.github.luckdmst.q05.appscale": [
