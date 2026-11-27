@@ -18,6 +18,9 @@
     },
     "io.github.luckdmst.q05.gigaasr": {
       "versionCode": 29
+    },
+    "io.github.luckdmst.q05.appscale": {
+      "versionCode": 1
     }
   },
   "service": {

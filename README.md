@@ -15,6 +15,7 @@
 | --- | --- |
 | Перевести меню, настройки и климат | [Русский интерфейс](docs/modules/russian-ui.md) · [Скачать](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/russian-ui-code349) |
 | Показать карты на приборке | [Навигация на приборке](docs/modules/cluster-navigation.md) · [Скачать](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/yandex-cluster-0.56-test) |
+| Изменить масштаб отдельных приложений на центральном экране | [Масштаб приложений](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/q05-app-scale-0.1-preview) |
 | Настроить плитки и разделение экрана | [Интерфейс и настройки](docs/modules/interface-tweaks.md) · [Скачать](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/interface-tweaks-code52) |
 | Исправить размер окна EzMod | [Рабочая область](docs/modules/app-workspace.md) · [Скачать](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/app-workspace-code7) |
 | Перевести реплики TSpeech голосом Алисы | [Русская озвучка](docs/modules/russian-voice.md) · [Скачать](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/alice-voice-code10) |
