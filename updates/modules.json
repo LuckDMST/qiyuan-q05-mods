@@ -29,5 +29,15 @@
     "versionName": "0.7.80-preview",
     "downloadUrl": "https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/q05-service-0.7.80-preview/q05-service-0.7.80-preview.apk",
     "sha256": "86b017647b192ccb8274237001ef645da2e72059f23795c67e45c78494d6f2c9"
+  },
+  "moduleVariants": {
+    "io.github.luckdmst.q05.appscale": [
+      {
+        "versionCode": 3,
+        "lsposedVersionCodes": [
+          7912
+        ]
+      }
+    ]
   }
 }
